@@ -1,0 +1,10 @@
+$theme-colors: (
+  "primary": #4662D4
+);
+
+
+
+@import '~bootstrap/scss/bootstrap.scss';
+@import './messages.scss';
+@import './navbar.scss';
+@import './personal.scss';
